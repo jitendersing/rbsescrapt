@@ -5,10 +5,12 @@ import time
 
 # --- CONFIGURATION ---
 BASE_URL = "http://117.239.28.178:8081/OLDRESULT/view_TR.asp"
-START_ROLL = 1300001
-TOTAL_STUDENTS = 5000
-YEAR = "2018"
-EXAM_TYPE = "SEC_MAIN"
+START_ROLL = 1300001 #replace with your desired roll num.
+TOTAL_STUDENTS = 5000 #hhow much data you want
+YEAR = "2018" # year of exam
+EXAM_TYPE = "SEC_MAIN" #type of exam like 	 
+	 
+
 
 def fetch_student_data(roll_no):
     """Fetches data for a single roll number using the provided keys."""
