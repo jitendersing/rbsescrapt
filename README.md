@@ -1,5 +1,5 @@
 # rbsescrapt
-generic form-submission and data-extraction automation example from rbse website
+generic form-submission and data-extraction automation example from RBSE website
 # Result Portal Automation Example
 
 ## Overview
@@ -85,4 +85,21 @@ This project is intended to demonstrate:
 * CSV generation
 * SQL export workflows
 
-Always ensure you have authorization to access and process data from any website and comply with the website's terms of service and applicable privacy regulations.
+
+## Disclaimer
+
+This project is provided for educational and research purposes only.
+
+The author does not own, operate, endorse, or have any affiliation with any website, service, or data source that may be used with this software.
+
+By using this software, you agree that:
+
+* You are solely responsible for how you use it.
+* You will comply with all applicable laws, regulations, website terms of service, and privacy requirements.
+* You will obtain any necessary permissions before accessing, collecting, or processing data.
+* You will not use this software for unauthorized, unlawful, harmful, or abusive activities.
+
+The author shall not be held liable for any direct, indirect, incidental, consequential, legal, financial, or other damages arising from the use, misuse, or inability to use this software.
+
+Use this software entirely at your own risk.
+
